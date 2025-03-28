@@ -1,5 +1,5 @@
 ---
-title: "DavidBamat.github.io"
+title: "Applied Measurement & Research Center"
 ---
 
 This is a Quarto website.

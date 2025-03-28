@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "DavidBamat.github.io"
+  title: "Applied Measurement & Research Center"
   navbar:
     left:
       - href: index.qmd
