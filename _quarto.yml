@@ -9,10 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    background: "#ffffff"
+    foreground: "#333333"
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
