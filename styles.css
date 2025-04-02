@@ -4,6 +4,11 @@
     border-bottom: 1px solid #eaeaea;
 }
 
+.navbar-brand img {
+    max-height: 80px; /* Adjust as needed */
+    width: auto; /* Maintain aspect ratio */
+}
+
 /* Footer styling */
 .page-footer {
     padding: 1rem 0;

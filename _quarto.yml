@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Applied Measurement & Research Center"
   navbar:
-    left:
+    logo: "logo_amrc.png" 
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
