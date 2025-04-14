@@ -11,12 +11,18 @@ website:
       - about.qmd
     background: "#ffffff"
     foreground: "#333333"
+  announcement: 
+    dismissable: false
+    content: "Applied Measuresment & Research Center"
+    type: primary
+    position: below-navbar
 
 format:
   html:
     theme: lux
     css: styles.css
     toc: true
+
 
 
 
